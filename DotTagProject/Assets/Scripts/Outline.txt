@@ -1,0 +1,12 @@
+PlayerPrefs
+============
+UserName
+UserColor
+MyGame
+MyNumber
+PartnerNumber
+CurrentPlayers
+SoundOn
+
+
+Stuff to fix before release:

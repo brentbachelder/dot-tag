@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "921147595341",
+    "firebase_url": "https://dot-tag-default-rtdb.firebaseio.com",
+    "project_id": "dot-tag",
+    "storage_bucket": "dot-tag.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921147595341:android:ddc82d641a7a3577729a04",
+        "android_client_info": {
+          "package_name": "com.BackyardArcade.DotTag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921147595341-8iej36utmhrrki40f0uee647drjb32tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA9fbWyb6DqPC2Wv7xD9DJRXbADfjmTuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921147595341-8iej36utmhrrki40f0uee647drjb32tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

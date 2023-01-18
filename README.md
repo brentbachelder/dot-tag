@@ -1,2 +1,2 @@
-# dot-tag
- Realtime Multiplayer Tag Game using Firebase
+# DotTag
+Realtime Multiplayer Tag Game using Firebase
