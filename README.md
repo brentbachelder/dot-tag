@@ -1,6 +1,8 @@
 # DotTag
 ### Realtime Multiplayer Tag Game using Firebase
-Language: *C#*   Framework: *Unity*    Database: *Firebase*
+Language: *C#*
+Framework: *Unity*
+Database: *Firebase*
 
 ## Goal of the Project
 I wanted to see if I could create a multiplayer game using only the free tier of Firebase. The game is a simple "tag game" using dots.
